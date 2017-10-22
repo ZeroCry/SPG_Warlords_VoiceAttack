@@ -1,8 +1,9 @@
+
 #Intro
->This requires the game and VoiceAttack be installed to use. Support the developers buy the products.
+This requires the game and VoiceAttack be installed to use. Support the developers buy the products.
 #Requirements
->[VoiceAttack](http://voiceattack.com)
->[Starpoint Gemini Warlords](http://store.steampowered.com/app/419480/Starpoint_Gemini_Warlords/)
+[VoiceAttack](http://voiceattack.com)
+[Starpoint Gemini Warlords](http://store.steampowered.com/app/419480/Starpoint_Gemini_Warlords/)
 ##Usage
 Edit the profile to see the full list of commands to extensive to really list all of them.
 ###Languages

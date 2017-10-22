@@ -6,6 +6,7 @@ This requires the game and VoiceAttack be installed to use. Support the develope
 1. [Starpoint Gemini
     Warlords](http://store.steampowered.com/app/419480/Starpoint_Gemini_Warlords/)
 2. [VoiceAttack](http://voiceattack.com) 
+3. Import profile a guide voice packs from: [HCS VoicePacks](https://www.youtube.com/watch?v=xNJYJ8OKEpY) will help you to do this if you are having problems.
 
 Note: Power managment is not assigned keys by default in SPG Warlords. The profile expects the arrow keys relating to the systems **left arrow** for *shields*, **up arrow** for engines, **right arrow** for *weapons*, and **down arrow** *neutral*. Doing that everything else should function properly. 
 

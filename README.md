@@ -8,10 +8,10 @@ This requires the game and VoiceAttack be installed to use. Support the develope
 2. [VoiceAttack](http://voiceattack.com) 
 3. Import profile a guide voice packs from: [HCS VoicePacks](https://www.youtube.com/watch?v=xNJYJ8OKEpY) will help you to do this if you are having problems.
 
-Note: Power managment is not assigned keys by default in SPG Warlords. The profile expects the arrow keys relating to the systems **left arrow** for *shields*, **up arrow** for engines, **right arrow** for *weapons*, and **down arrow** *neutral*. Doing that everything else should function properly. 
+Note: Power management is not assigned keys by default in SPG Warlords. The profile expects the arrow keys relating to the systems **left arrow** for *shields*, **up arrow** for engines, **right arrow** for *weapons*, and **down arrow** *neutral*. Doing that everything else should function properly. 
 
 #### Usage
 Edit the profile to see the full list of commands to extensive to really list all of them.
 
 ##### Languages
-This is english only for now. If you'd like to port it into your language feel free. Create an issue and I'll drop a mention here.
+This is English only for now. If you'd like to port it into your language feel free. Create an issue and I'll drop a mention here.
